@@ -1,2 +1,2 @@
-# Creative-code-exercises
-Some personal projects on creative code.
+# Simple exercises
+Exercises on git
